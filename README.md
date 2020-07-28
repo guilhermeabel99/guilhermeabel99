@@ -1,8 +1,7 @@
 ### Hi there 👋
+🚀 My name is Guilherme, I am currently a student of computer science.
 
-🚀 Me chamo Guilherme, atualmente sou estudante de ciencia da computação.
+✨ Evolving more and more.
 
-✨ Evoluindo cada vez mais.
-
-💡 Impulsionado pelo amor em resolver problemas.
+💡 Driven by love in solving problems.
 
