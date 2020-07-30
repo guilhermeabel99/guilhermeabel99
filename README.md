@@ -1,7 +1,4 @@
-image:: https://url/path/to/heythere
-  :height: 100px
-  :width: 200 px
-  :scale: 50 %
+![Hey there](https://user-images.githubusercontent.com/68508662/88928220-f05b0380-d24e-11ea-911d-4b269675ecf0.png)
 
 
 ### Hi there 👋
