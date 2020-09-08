@@ -9,7 +9,7 @@
 
 ------------
 ## ☕️ Skills
-33991ff
+
 > - NodeJs 
 > - JavaScript
 > - ReactNative
