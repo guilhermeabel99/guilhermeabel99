@@ -1,4 +1,4 @@
-# Guilherme Abel :computer: :rocket:
+# Guilherme Abel :computer: 
 <p> What´s up Dev? :octocat:
   
  ------------
