@@ -8,5 +8,23 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermeabel.contato@gmail.com)](mailto:guilhermeabel.contato@gmail.com)
 
 ------------
+## ☕️ Skills
 
+> - NodeJs 
+> - JavaScript
+> - ReactNative
+> - Typescript
+> - Angular
+> - Git
+> - IBM Services
+> - ReactJS
+> - CSS
+> - HTML5
+
+------------
+
+## Objetivo  :rocket: 
+------------
+
+Impactar a comunidade como um todo através das tecnologias mais inovadoras do mercado, influenciando a sociedade a experimentar a magia da programação.
 
