@@ -23,8 +23,8 @@
 
 ------------
 
-## Objetivo  :rocket: 
+## Goal  :rocket: 
 ------------
 
-Impactar a comunidade como um todo através das tecnologias mais inovadoras do mercado, influenciando a sociedade a experimentar a magia da programação.
+Impact the community as a whole through the most innovative technologies on the market, influencing a society to experience the magic of programming.
 
