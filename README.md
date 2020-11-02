@@ -3,7 +3,7 @@
   
 <p> Sempre escrevendo não apenas softwares escaláveis, mas também o código legível que tornará a escalabilidade possível.
 
-<p>Um código limpo e compreensível, como deve ser um bom poema.
+<p>Um código limpo e compreensível, como deve ser.
   
  ------------
  
