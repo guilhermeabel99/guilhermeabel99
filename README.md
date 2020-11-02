@@ -1,5 +1,9 @@
 # Guilherme Abel :computer: 
-<p> What´s up Dev? :octocat:
+<p> Eu crio ideias e desenvolvo soluções na forma de software usando minha criatividade e meu conhecimento técnico em JavaScript / TypeScript, construindo aplicativos da web com React e aplicativos móveis usando React-Native.
+  
+<p> Sempre escrevendo não apenas softwares escaláveis, mas também o código legível que tornará a escalabilidade possível.
+
+<p>Um código limpo e compreensível, como deve ser um bom poema.
   
  ------------
  
@@ -8,20 +12,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermeabel.contato@gmail.com)](mailto:guilhermeabel.contato@gmail.com)
 
 ------------
-## ☕️ Skills
 
-> - NodeJs 
-> - JavaScript
-> - ReactNative
-> - Typescript
-> - Angular
-> - Git
-> - IBM Services
-> - ReactJS
-> - CSS
-> - HTML5
 
-------------
 
 ## Goal  :rocket: 
 ------------
