@@ -6,15 +6,13 @@
  ------------
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### 👨‍💻 Languages and Tools
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99)
+
+
+ # 👨‍💻 Languages and Tools: <div align="center"> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react) ![NextJS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)  ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git) ![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)
+ 
+ 
+  </div>
 
 
 
@@ -28,3 +26,7 @@ Impact the community as a whole through the most innovative technologies on the 
 
 
 ⭐️ From [Guilherme Abel](https://github.com/guilhermeabel99)
+
+
+
+
