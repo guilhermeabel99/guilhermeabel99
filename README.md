@@ -1,22 +1,29 @@
-# Guilherme Abel :computer: 
-<p> Eu crio ideias e desenvolvo soluções na forma de software usando minha criatividade e meu conhecimento técnico em JavaScript / TypeScript, construindo aplicativos da web com React e aplicativos móveis usando React-Native.
-  
-<p> Sempre escrevendo não apenas softwares escaláveis, mas também o código legível que tornará a escalabilidade possível.
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+</p>
 
-<p>Um código limpo e compreensível, como deve ser.
-  
- ------------
- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0096c7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://https://www.linkedin.com/in/guilhermeabel/)](https://www.linkedin.com/in/guilhermeabel/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-3391ff?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://https://twitter.com/guilhermeabel99/)](https://twitter.com/guilhermeabel99/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guilhermeabel.contato@gmail.com)](mailto:guilhermeabel.contato@gmail.com)
+### 👋 Guilherme Abel :computer:
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-------------
+### 👨‍💻 Languages and Tools
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/guilhermeabel99)
 
 
 
-## Goal  :rocket: 
-------------
-
+### 🔭  Goal
 Impact the community as a whole through the most innovative technologies on the market, influencing a society to experience the magic of programming.
 
+### ☕ Get In Touch
+[![Twitter Badge](https://img.shields.io/badge/-@guilhermeabel99-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/guilhermeabel99)](https://twitter.com/guilhermeabel99) 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Abel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeabel/)](https://www.linkedin.com/in/guilhermeabel/) 
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeabel.contato@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeabel.contato@gmail.com)](mailto:guilhermeabel.contato@gmail.com)
+
+
+⭐️ From [Guilherme Abel](https://github.com/guilhermeabel99)
