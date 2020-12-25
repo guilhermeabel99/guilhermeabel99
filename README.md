@@ -6,7 +6,7 @@
  ------------
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### I am Dev Front End, Passionate about technology and entrepreneurship, student of the entire programming ecosystem with a focus on javascript in search of the full stack, in his spare time drawing screens with a focus on the end user experience.
+#### I am Dev Front End, Passionate about technology and entrepreneurship, student of the entire programming ecosystem with a focus on javascript in search of the full stack, in his spare time drawing screens with a focus on the end user experience.
 
 
 
