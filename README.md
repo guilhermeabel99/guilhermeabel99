@@ -16,6 +16,13 @@ I am Dev Front End, Passionate about technology and entrepreneurship, student of
  
  
   </div>
+  
+  ```json
+const Contacts = { 
+   👨🏻‍💻 Linkedin: 'linkedin.com/in/guilhermeabel',
+   📒 Email: 'guilhermeabel.contato@gmail.com',
+}
+```
 
 
 
