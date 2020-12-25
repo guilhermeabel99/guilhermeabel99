@@ -2,9 +2,12 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-## 👋 Guilherme Abel :computer:
+## 👋 Hi, I'm Guilherme Abel :computer:
  ------------
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+### 
+I am Dev Front End, Passionate about technology and entrepreneurship, student of the whole programming ecosystem in search of the full stack, in his spare time I love to draw screens, focusing on the user experience.
 
 
 
@@ -16,8 +19,16 @@
 
 
 
-### 🔭  Goal
-Impact the community as a whole through the most innovative technologies on the market, influencing a society to experience the magic of programming.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeabel99&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="guilhermeabel99" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeabel99&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/guilhermeabel99" target="_blank"><img alt="guilhermeabel99" src="https://badges.pufler.dev/visits/guilhermeabel99/guilhermeabel99?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>
+
 
 ### ☕ Get In Touch
 [![Twitter Badge](https://img.shields.io/badge/-@guilhermeabel99-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/guilhermeabel99)](https://twitter.com/guilhermeabel99) 
