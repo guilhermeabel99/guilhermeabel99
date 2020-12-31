@@ -37,6 +37,10 @@ const Contacts = {
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)
+![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)
+![NextJS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -45,6 +49,7 @@ const Contacts = {
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 </div>
@@ -67,8 +72,4 @@ const Contacts = {
 [youtube]: https://youtube.com/[https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA](https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA)
 [instagram]: https://instagram.com/g.abel99
 [linkedin]: https://linkedin.com/in/guilhermeabel99
-
-
-
-
 
