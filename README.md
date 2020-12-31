@@ -69,7 +69,7 @@ const Contacts = {
 ⭐️ From [Guilherme Abel](https://github.com/guilhermeabel99)
 
 [twitter]: https://twitter.com/guilhermeabel99
-[youtube]: https://youtube.com/[https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA](https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA)
+[youtube]: https://youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA](https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA)
 [instagram]: https://instagram.com/g.abel99
-[linkedin]: https://linkedin.com/in/guilhermeabel99
+[linkedin]: https://www.linkedin.com/in/guilhermeabel/
 
