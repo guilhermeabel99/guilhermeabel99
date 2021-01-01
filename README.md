@@ -53,7 +53,8 @@ const Contacts = {
 ![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-blue?style=flat-square&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-CC6699?style=flat-square&logo=graphql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-8A2BE2?style=flat-square&logo=insomnia&logoColor=white)
 
 </div>
 
