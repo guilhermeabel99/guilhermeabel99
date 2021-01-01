@@ -39,6 +39,7 @@ const Contacts = {
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Yarn-blue?style=flat-square&logo=Yarn&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-blue?style=flat-square&logo=Redux&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
