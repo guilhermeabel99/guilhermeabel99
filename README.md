@@ -73,7 +73,7 @@ const Contacts = {
 ⭐️ From [Guilherme Abel](https://github.com/guilhermeabel99)
 
 [twitter]: https://twitter.com/guilhermeabel99
-[youtube]: https://youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA](https://www.youtube.com/channel/UCsoRvjDgMGfp1cfFmHFNMnA)
+[youtube]: https://www.youtube.com/c/YTSuperCraft360/videos
 [instagram]: https://instagram.com/g.abel99
 [linkedin]: https://www.linkedin.com/in/guilhermeabel/
 
