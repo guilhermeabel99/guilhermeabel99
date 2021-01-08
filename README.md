@@ -20,6 +20,7 @@ const Contacts = {
 - 🌱 Learn everything possible 🤣
 - 🥅 Contribute more to Open Source projects
 - :rocket:  Never stop doing what i like because of work
+- ⌚ Commit every day of the year
 
 
 ### Connect with me:
