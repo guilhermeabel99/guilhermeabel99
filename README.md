@@ -75,6 +75,6 @@ const Contacts = {
 
 [twitter]: https://twitter.com/guilhermeabel99
 [youtube]: https://www.youtube.com/c/YTSuperCraft360/videos
-[instagram]: https://instagram.com/g.abel99
+[instagram]: https://instagram.com/guiilllherrme
 [linkedin]: https://www.linkedin.com/in/guilhermeabel/
 
