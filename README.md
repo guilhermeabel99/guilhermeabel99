@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <a href="https://www.imagensanimadas.com/cat-magicos-e-magos-711.htm"><img src="https://www.imagensanimadas.com/data/media/711/magico-e-mago-imagem-animada-0038.gif" border="0" alt="magico-e-mago-imagem-animada-0038" width="27px /></a> ">
 </p>
 
 ### Hello World, I'm  Guilherme Abel👋
