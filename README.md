@@ -4,7 +4,7 @@
 
 ### Hello World, I'm  Guilherme Abel👋🧙🏼‍♂️
  ```js
-const Contacts = { 
+const MageContacts = { 
    👨🏻‍💻 Linkedin: 'linkedin.com/in/guilhermeabel',
    📒 Email: 'guilhermeabel.contato@gmail.com',
 }
